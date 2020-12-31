@@ -290,6 +290,8 @@ img{
 }
 .portfolio__img img{
     border-radius: .5rem;
+    height: 100%;
+    width:100%;
 }
 .portfolio__link{
     position: absolute;
